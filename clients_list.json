@@ -1,0 +1,190 @@
+{
+  "status": "success",
+  "count": 46,
+  "clients": [
+    {
+      "cliente": "CND",
+      "industria": "INDUSTRIA CERVECERA Y DE BEBIDAS"
+    },
+    {
+      "cliente": "DISTRIBUIDORA CORRIPIO",
+      "industria": "Distribuidora, Comercializadora, Fabricante, Importadora, Exportadora. "
+    },
+    {
+      "cliente": "BANCO POPULAR ",
+      "industria": "INDUSTRIA DE LA BANCA Y SERVICIOS FINANCIEROS"
+    },
+    {
+      "cliente": "NESTLE",
+      "industria": "ALIMENTOS Y BEBIDAS"
+    },
+    {
+      "cliente": "LABORATORIOS AMADITA",
+      "industria": "INDUSTRIA DE ANALISIS CLINICOS"
+    },
+    {
+      "cliente": "TEXACO",
+      "industria": "INDUSTRIA PETROLERA"
+    },
+    {
+      "cliente": "BANCO SANTA CRUZ",
+      "industria": "INDUSTRIA DE LA BANCA Y SERVICIOS FINANCIEROS"
+    },
+    {
+      "cliente": "MLB",
+      "industria": "INDUSTRIA DEPORTIVA"
+    },
+    {
+      "cliente": "GRUPO PUNTA CANA",
+      "industria": "INDUSTRIA TURISTICA Y FINANCIERA"
+    },
+    {
+      "cliente": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+      "industria": "INDUSTRIA DE LA BANCA Y SERVICIOS FINANCIEROS"
+    },
+    {
+      "cliente": "HUMANO SEGUROS",
+      "industria": "INDUSTRIAS DE SEGUROS"
+    },
+    {
+      "cliente": "INDUSTRIAS TUCAN",
+      "industria": "INSDUTRIA QUIMICA"
+    },
+    {
+      "cliente": "PEÑA IZQUIERDO",
+      "industria": "INDUSTRIAS DE SEGUROS"
+    },
+    {
+      "cliente": "BANCO VIMENCA",
+      "industria": "INDUSTRIA DE LA BANCA Y SERVICIOS FINANCIEROS"
+    },
+    {
+      "cliente": "REMESAS VIMENCA",
+      "industria": "SERVICIOS FINANCIEROS"
+    },
+    {
+      "cliente": "DATA VIMENCA",
+      "industria": "INDUSTRIA DE SERVICIOS"
+    },
+    {
+      "cliente": "RON BARCELO",
+      "industria": "INDUSTRIA DE DESTILADOS ALCOHOLICOS"
+    },
+    {
+      "cliente": "EMBAJADA DE PAISES BAJOS",
+      "industria": "EMBAJADA"
+    },
+    {
+      "cliente": "MERCASID",
+      "industria": "INDUSTRIA DE CONSUMO MASIVO"
+    },
+    {
+      "cliente": "SUIPHAR",
+      "industria": "INDUSTRIA FARMACEUTICA"
+    },
+    {
+      "cliente": "TD DOMINICANA",
+      "industria": "INDUSTRIA DE CONSUMO MASIVO"
+    },
+    {
+      "cliente": "CESAR IGLESIAS",
+      "industria": "INDUSTRIA MANUFACTURERA Y DISTRIBUIDORA DE CONSUMO MASIVO"
+    },
+    {
+      "cliente": "BANCO DE RESERVAS",
+      "industria": "INDUSTRIA DE LA BANCA Y SERVICIOS FINANCIEROS"
+    },
+    {
+      "cliente": "INVERSIONES & RESERVAS",
+      "industria": "INDUSTRIA DE VALORES"
+    },
+    {
+      "cliente": "AFP RESERVAS",
+      "industria": "INDUSTRIA FINANCIERA ADMINISTRADORA DE FONDOS DE PENSIONES"
+    },
+    {
+      "cliente": "FUNDACION RESERVAS",
+      "industria": "ASOCIACION SIN FINES DE LUCRO"
+    },
+    {
+      "cliente": "SEGUROS BR",
+      "industria": "INDUSTRIA DE SEGUROS"
+    },
+    {
+      "cliente": "BANCO MULTIPLE CARIBE",
+      "industria": "INDUSTRIA DE LA BANCA Y SERVICIOS FINANCIEROS"
+    },
+    {
+      "cliente": "MAVERICK FOODS (MUNNE)",
+      "industria": "ALIMENTOS Y BEBIDAS"
+    },
+    {
+      "cliente": "PRODUCTOS CHEF",
+      "industria": "INDUSTRIA ALIMENTARIA Y MANUFACTURERA"
+    },
+    {
+      "cliente": "PORTAL",
+      "industria": "EMPRESA DE SERVICIOS DE PAGOS ELECTRONICOS"
+    },
+    {
+      "cliente": "SENASA",
+      "industria": "INDUSTRIAS DE SEGUROS"
+    },
+    {
+      "cliente": "RICA",
+      "industria": "INDUSTRIA ALIMENTARIA Y MANUFACTURERA"
+    },
+    {
+      "cliente": "CASA PACO (PACO FISH)",
+      "industria": "INDUSTRIA ALIMENTRIA Y MANUFACTURERA"
+    },
+    {
+      "cliente": "MOTOR CREDITO",
+      "industria": "INDUSTRIA DE LA BANCA Y SERVICIOS FINANCIEROS"
+    },
+    {
+      "cliente": "CORTES / HNOS.",
+      "industria": "INDUSTRIA PROCESADORA DE CACAO, CHOCOLATERA"
+    },
+    {
+      "cliente": "PRO DOMINICANA",
+      "industria": "INDUSTRIA QUE PROMUEVE LA MANUFACTURACIÓN"
+    },
+    {
+      "cliente": "FUNDACION RESERVAS",
+      "industria": "ASOCIACION SIN FINES DE LUCRO"
+    },
+    {
+      "cliente": "CONSULTORA LA COLECTIVA",
+      "industria": "SERVICIOS PROFESIONALES"
+    },
+    {
+      "cliente": "OTRO LEVEL",
+      "industria": "SERVICIOS PUBLICITARIOS"
+    },
+    {
+      "cliente": "PERSIO ABREU",
+      "industria": "INDUSTRIA TEXTIL MANUFACTURERA"
+    },
+    {
+      "cliente": "GLOWTOUCH, SRL",
+      "industria": "EMPRESA SERVISIOS TECNOLOGICOS"
+    },
+    {
+      "cliente": "PLAZA LAMA",
+      "industria": "INDUSTRIA DE CONSUMO MASIVO"
+    },
+    {
+      "cliente": "INESPRE",
+      "industria": "EMPRESA GUBERNAMENTAL REGIDORA DE PRECIOS EN EL MERCADO"
+    },
+    {
+      "cliente": "VIDA INTEGRA",
+      "industria": "EMPRESA DEDICADA A SERVICIOS DE LA SALUD"
+    },
+    {
+      "cliente": "YO TAMBIEN PUEDO",
+      "industria": "EMPRESA DE PSICOLOGIA Y COACHING"
+    }
+  ]
+}
